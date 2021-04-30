@@ -1,5 +1,4 @@
-
-# Square Array
+# Square Array Lab
 
 ## Objectives
 1. Practice iterating over an array using the `.each` method.
@@ -36,5 +35,3 @@ square_array(new_numbers)
 ## Resources
 
 * [Ruby Docs](http://www.ruby-doc.org/core-2.1.2/) - [Each Method](https://ruby-doc.org/core-2.6.3/Array.html#method-i-each)
-
-
